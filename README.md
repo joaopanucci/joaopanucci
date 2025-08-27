@@ -21,26 +21,6 @@
 - 📞 Installation and configuration of telephony equipment  
   ( Instalação e configuração de equipamentos de telefonia )
 
-### Furniture and Woodwork Assembler, Daniel Batista dos Santos, Nova Andradina (October 2018 - September 2020)  - Montador de Móveis e Artefatos de Madeira, Daniel Batista dos Santos, Nova Andradina (Outubro 2018 - Setembro 2020)
-- 🛋️ Assembly and installation of furniture  
- ( Montagem e instalação de móveis )
-
-- 🤝 Customer service and technical support  
- ( Atendimento a clientes e suporte técnico )
-
-### Driver Assistant, Energética Santa Helena S/A, Nova Andradina (November 2016 - August 2018) - Ajudante de Motorista, Energética Santa Helena S/A, Nova Andradina (Novembro 2016 - Agosto 2018)
-- 🚚 Support in logistics and transportation of goods  
-  ( Suporte na logística e transporte de mercadorias )
-  
-- 📦 Assistance in organization and inventory control  
-  ( Auxílio na organização e controle de estoques )
-
-### Wholesale Trade Salesman, Comercial Santa Maria Materiais para Construção LTDA, Nova Andradina (May 2015 - April 2016) / Vendedor em Comércio Atacadista, Comercial Santa Maria Materiais para Construção LTDA, Nova Andradina (Maio 2015 - Abril 2016)
-- 🛒 Customer service and sales  
-  ( Atendimento ao cliente e vendas )
-  
-- 📊 Inventory management and merchandise control  
-  ( Gestão de estoque e controle de mercadorias )
 
 ## Technical Skills / Competências Técnicas
 
@@ -71,9 +51,6 @@
 
 - 💼 Information Technology, Fundação Bradesco (October 2021 - November 2021)  
  ( Tecnologia da Informação, Fundação Bradesco (Outubro 2021 - Novembro 2021) )
-
-- 📝 Microsoft Word 2016, Fundação Bradesco (September 2021 - October 2021)  
- ( Microsoft Word 2016, Fundação Bradesco (Setembro 2021 - Outubro 2021) )
 
 - 📚 Accounting and Finance, Fundação Bradesco (January 2022 - April 2022)  
  ( Contabilidade e Finanças, Fundação Bradesco (Janeiro 2022 - Abril 2022) )
