@@ -54,3 +54,16 @@
 
 - 📚 Accounting and Finance, Fundação Bradesco (January 2022 - April 2022)  
  ( Contabilidade e Finanças, Fundação Bradesco (Janeiro 2022 - Abril 2022) )
+
+## Utilities
+
+### Renomear arquivos CSV
+
+O script `rename_csv_files.py` renomeia todos os arquivos `.csv` no diretório atual para o formato `IBGE-municipio.csv`, utilizando as informações contidas na primeira linha do arquivo.
+
+Para executar:
+
+```bash
+python rename_csv_files.py
+```
+
