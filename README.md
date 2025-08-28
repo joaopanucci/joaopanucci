@@ -54,3 +54,13 @@
 
 - 📚 Accounting and Finance, Fundação Bradesco (January 2022 - April 2022)  
  ( Contabilidade e Finanças, Fundação Bradesco (Janeiro 2022 - Abril 2022) )
+
+## Ferramenta de renomeação de CSV por IBGE
+
+Coloque os arquivos `.csv` no diretório do projeto e execute o script:
+
+```bash
+python rename_ibge_csv.py
+```
+
+Cada arquivo será renomeado para `IBGE_Nome_do_municipio.csv` usando os dados da primeira linha do arquivo.
