@@ -48,8 +48,8 @@ Currently deepening my backend skills with `C#` and `.NET`.
 
 ### GitHub Metrics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joaopanucci&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopanucci&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopanucci&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopanucci&theme=tokyonight" alt="Top languages" />
 
 <br />
 <br />
