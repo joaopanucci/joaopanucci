@@ -1,74 +1,56 @@
-# João Paulo Panucci Bernardes
+<div align="center">
 
-📍 Campo Grande, Brazil  
-✉️ Email: joao.panucci@hotmail.com  
-📞 Contact: +55 (67) 9 9688-9787 / +55 (67) 9 9336-9978  
+![Profile Views](https://komarev.com/ghpvc/?username=joaopanucci&style=for-the-badge&color=0e75b6)
 
----
+<h1>Hi, I'm Joao 👋</h1>
+<p>Front-End Engineer focused on Laravel + React solutions.</p>
 
-## Professional Profile
-
-Front-End Engineer graduated from EBAC, with solid experience in software development, systems integration, and technical support. Currently working on the development of a Laravel-based system for public health management for the State of Mato Grosso do Sul, focused on process optimization, data reliability, and support for strategic decision-making in the public sector.
-
-Professional with a background in telecommunications, web development, and digital solutions. Proactive, results-oriented, and committed to building scalable, secure, and well-structured systems.
+</div>
 
 ---
 
-## Current Projects
+<div align="center">
 
-### Public Health Management System — Laravel
+## Connect with me
 
-- Laravel-based web system for public health management for the State of Mato Grosso do Sul
-- Role-based access control (RBAC) with hierarchical approval flows
-- Secure authentication and authorization using Laravel middleware and policies
-- Relational database design for municipalities, healthcare units (CNES), teams, and professionals
-- Data migration pipelines from structured JSON datasets
-- RESTful API development for internal system modules and frontend integration
-- Audit logs and data integrity rules to ensure traceability and prevent unauthorized changes
-- Frontend integration using React + Vite within the Laravel ecosystem
-- Focus on scalability, security, and long-term maintainability
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.panucci@hotmail.com)
+
+</div>
 
 ---
 
-## Professional Experience
+<div align="center">
 
-### Telecommunications Technician — WAV Telecom LTDA, Nova Andradina  
-**October 2022 – November 2024**
+## Languages and Tools
 
-- Maintenance and configuration of telecommunications systems  
-- Technical support and customer service  
-- Installation and configuration of telephony equipment  
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,react,mysql,git,django,aws,php,laravel,vite)](https://skillicons.dev)
 
----
-
-## Technical Skills
-
-- **Programming Languages:** Python, Java, JavaScript, PHP  
-- **Frameworks & Stacks:** Laravel, React, Vite, REST APIs  
-- **Tools & Technologies:** Git, Microsoft Office, Adobe Photoshop, Adobe Illustrator  
-- **Operating Systems:** Windows, Linux  
-- **Networks & Telecommunications:** Network configuration, hardware maintenance, telephony  
+</div>
 
 ---
 
-## Education
+<div align="center">
 
-### Academic Background
+## GitHub Stats
 
-- **Front-End Engineering — EBAC Educational Institution (Completed)**  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaopanucci&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopanucci&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-- **High School Diploma — Escola E. Prof. Nair Palacio de Souza, Nova Andradina**  
-  *February 2012 – December 2016*
+<br />
+<br />
+
+<img src="https://streak-stats.demolab.com?user=joaopanucci&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
 
 ---
 
-## Courses and Certifications
+<div align="center">
 
-- **Computer Technician — Fundação Bradesco**  
-  *October 2021 – January 2022*
+## Activity Graph
 
-- **Information Technology — Fundação Bradesco**  
-  *October 2021 – November 2021*
+[![Joao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaopanucci&bg_color=0d1117&color=00bfff&line=00ff95&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- **Accounting and Finance — Fundação Bradesco**  
-  *January 2022 – April 2022*
+</div>
