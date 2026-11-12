@@ -20,7 +20,7 @@ Desenvolvedor full-stack de **Campo Grande, MS**, focado em arquitetura limpa, p
 Trabalho do banco de dados à interface: APIs, painéis, apps desktop e sistemas para o setor público e privado.
 
 - 🏢 Fundador da **[JELCH Group](https://github.com/jelchgroup)**
-- 🏛️ Colaboro com a **[SAPS-SES](https://github.com/SAPS-SES)** em soluções para a saúde pública
+- 🏛️ Desenvolvo soluções para a **saúde pública** (SAPS-SES)
 - 🌱 Membro da **[DevHub Community](https://github.com/devhubcommunity)**
 - 🧠 Estudando a fundo **C# / .NET** e **Rust**
 - 🐳 Open source: criei o **AutoDock**, que leva qualquer projeto para o Docker em poucos cliques
@@ -30,21 +30,46 @@ Trabalho do banco de dados à interface: APIs, painéis, apps desktop e sistemas
 ## 🚀 Projetos em destaque
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/joaopanucci/autodock">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopanucci&repo=autodock&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=38bdf8" alt="AutoDock" />
-</a>
-<a href="https://github.com/joaopanucci/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopanucci&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=38bdf8" alt="Portfolio" />
-</a>
-<br />
-<a href="https://github.com/joaopanucci/Mapa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopanucci&repo=Mapa&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=38bdf8" alt="Mapa" />
-</a>
-<a href="https://github.com/joaopanucci/crontainer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopanucci&repo=crontainer&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=38bdf8" alt="Crontainer" />
-</a>
+#### 🐳 [autodock](https://github.com/joaopanucci/autodock)
+Dockerização guiada de qualquer projeto. Open source.
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 [portfolio](https://github.com/joaopanucci/portfolio)
+Meu portfólio pessoal.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🗺️ [Mapa](https://github.com/joaopanucci/Mapa)
+Mapa interativo.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+#### ⏱️ [crontainer](https://github.com/joaopanucci/crontainer)
+Fork de estudo e experimentação.
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+</table>
 </div>
 
 ### 🐳 [AutoDock](https://github.com/joaopanucci/autodock) &nbsp;![Stars](https://img.shields.io/github/stars/joaopanucci/autodock?style=flat-square&color=22d3ee&labelColor=0f172a)
@@ -69,7 +94,7 @@ App desktop open source (Apache-2.0) feito com **Rust + Tauri**, com suporte a L
 | 🗺️ [**Mapa**](https://github.com/joaopanucci/Mapa) | Mapa interativo | `JavaScript` |
 | ⏱️ [**crontainer**](https://github.com/joaopanucci/crontainer) | Fork de estudo e experimentação | `CSS` |
 | 🔒 **Projetos privados** | Produtos em desenvolvimento para clientes e para a JELCH Group: engines, sistemas de gestão e plataformas web | `Java` `Spring` `TypeScript` `React` |
-| 🏛️ **SAPS-SES** | Sistemas para a saúde pública (privado) | `Java` `PostgreSQL` |
+| 🏛️ **SAPS-SES** | Sistemas para a saúde pública (governamental, código em GitLab institucional) | `Java` `PostgreSQL` |
 | 🏢 **JELCH Group** | Site institucional e produtos da empresa (privado) | `TypeScript` `Java` |
 | 🌱 **DevHub Community** | Landing page da comunidade (privado) | `CSS` `HTML` |
 
