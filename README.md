@@ -19,8 +19,8 @@
 Desenvolvedor full-stack de **Campo Grande, MS**, focado em arquitetura limpa, performance e produtos que duram.
 Trabalho do banco de dados à interface: APIs, painéis, apps desktop e sistemas para o setor público e privado.
 
-- 🏢 Fundador da **[JELCH Group](https://github.com/jelchgroup)**
-- 🏛️ Desenvolvo soluções para a **saúde pública** (SAPS-SES)
+- 🏢 Fundador da **[JELCH Group](https://jelchgroup.com)**
+- 🏛️ Desenvolvo soluções para a **saúde pública** de MS ([SAPS](https://saps.saude.ms.gov.br))
 - 🌱 Membro da **[DevHub Community](https://github.com/devhubcommunity)**
 - 🧠 Estudando a fundo **C# / .NET** e **Rust**
 - 🐳 Open source: criei o **AutoDock**, que leva qualquer projeto para o Docker em poucos cliques
@@ -32,41 +32,35 @@ Trabalho do banco de dados à interface: APIs, painéis, apps desktop e sistemas
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### 🐳 [autodock](https://github.com/joaopanucci/autodock)
-Dockerização guiada de qualquer projeto. Open source.
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
-
+<td align="center" width="33%" valign="middle">
+<br />
+<a href="https://dakiali.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dakiali-logo-dark.svg" />
+    <img src="assets/dakiali-logo.svg" alt="Dakiali" height="70" />
+  </picture>
+</a>
+<br />
+<a href="https://dakiali.com"><b>dakiali.com</b></a>
+<br /><br />
 </td>
-<td width="50%" valign="top">
-
-#### 🌐 [portfolio](https://github.com/joaopanucci/portfolio)
-Meu portfólio pessoal.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
+<td align="center" width="33%" valign="middle">
+<br />
+<a href="https://saps.saude.ms.gov.br">
+  <img src="assets/saps-logo.png" alt="SAPS - Secretaria de Estado de Saúde de MS" height="70" />
+</a>
+<br />
+<a href="https://saps.saude.ms.gov.br"><b>saps.saude.ms.gov.br</b></a>
+<br /><br />
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🗺️ [Mapa](https://github.com/joaopanucci/Mapa)
-Mapa interativo.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-#### ⏱️ [crontainer](https://github.com/joaopanucci/crontainer)
-Fork de estudo e experimentação.
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+<td align="center" width="33%" valign="middle">
+<br />
+<a href="https://jelchgroup.com">
+  <img src="assets/jelch-logo.png" alt="JELCH Group" height="70" />
+</a>
+<br />
+<a href="https://jelchgroup.com"><b>jelchgroup.com</b></a>
+<br /><br />
 </td>
 </tr>
 </table>
@@ -94,8 +88,9 @@ App desktop open source (Apache-2.0) feito com **Rust + Tauri**, com suporte a L
 | 🗺️ [**Mapa**](https://github.com/joaopanucci/Mapa) | Mapa interativo | `JavaScript` |
 | ⏱️ [**crontainer**](https://github.com/joaopanucci/crontainer) | Fork de estudo e experimentação | `CSS` |
 | 🔒 **Projetos privados** | Produtos em desenvolvimento para clientes e para a JELCH Group: engines, sistemas de gestão e plataformas web | `Java` `Spring` `TypeScript` `React` |
-| 🏛️ **SAPS-SES** | Sistemas para a saúde pública (governamental, código em GitLab institucional) | `Java` `PostgreSQL` |
-| 🏢 **JELCH Group** | Site institucional e produtos da empresa (privado) | `TypeScript` `Java` |
+| 🏛️ [**SAPS**](https://saps.saude.ms.gov.br) | Sistemas para a saúde pública de MS | `Java` `PostgreSQL` |
+| 🏢 [**JELCH Group**](https://jelchgroup.com) | Site institucional e produtos da empresa | `TypeScript` `Java` |
+| 🧭 [**Dakiali**](https://dakiali.com) | Plataforma web e mobile da JELCH Group | `TypeScript` `Java` |
 | 🌱 **DevHub Community** | Landing page da comunidade (privado) | `CSS` `HTML` |
 
 ---
@@ -153,7 +148,7 @@ App desktop open source (Apache-2.0) feito com **Rust + Tauri**, com suporte a L
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaopanucci/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaopanucci/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.panucci@hotmail.com)
-[![JELCH Group](https://img.shields.io/badge/JELCH%20Group-0e7490?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jelchgroup)
+[![JELCH Group](https://img.shields.io/badge/JELCH%20Group-0e7490?style=for-the-badge&logo=github&logoColor=white)](https://jelchgroup.com)
 
 <br />
 
